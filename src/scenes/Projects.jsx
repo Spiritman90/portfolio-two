@@ -17,12 +17,12 @@ const projectVariant = {
 
 const Project = ({ title, link, description }) => {
   const overlayStyles = `absolute h-full w-full opacity-0 hover:opacity-90 transition duration-500
-    bg-grey z-30 flex flex-col justify-center items-center text-center p-16 text-deep-blue`;
+    bg-grey z-30 flex flex-col justify-center items-center text-center p-16 text-deep-blue `;
   const projectTitle = title.split(" ").join("-").toLowerCase();
 
   return (
     <motion.div variants={projectVariant} className="relative">
-      <a href={link} target="_blank" rel="noreferrer">
+      <a href={link} target="_blank" rel="noreferrer ">
         <div className={overlayStyles}>
           <p className="text-2xl font-opensans">{title}</p>
           <p className="mt-2 font-playfair">{description}</p>
