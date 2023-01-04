@@ -89,8 +89,8 @@ const Projects = () => {
           />
           <Project
             title="Project 2"
-            description="GalleryOne is an app that brings merchants together. Only authenticated users can use the platform. Built with React, SCSS and Redux Toolkit"
-            link="https://galleryone.vercel.app/"
+            description="Squazzle.COMING SOON. Squazzle is a platform for squatters to get accomadation for a short period of time"
+            link="https://stutern-squazzle.web.app/login"
           />
 
           {/* ROW 2 */}
