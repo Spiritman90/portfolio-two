@@ -89,33 +89,38 @@ const Projects = () => {
           />
           <Project
             title="Project 2"
-            description="Squazzle.COMING SOON. Squazzle is a platform for squatters to get accomadation for a short period of time"
-            link="https://stutern-squazzle.web.app/login"
+            description="Pinvent App. An Inventory and Stock Management Solution. Built with the MERN stack"
+            link="https://pinvent-app.vercel.app/"
           />
 
           {/* ROW 2 */}
           <Project
             title="Project 3"
+            description="Squazzle.COMING SOON. Squazzle is a platform for squatters to get accomadation for a short period of time"
+            link="https://stutern-squazzle.web.app/login"
+          />
+          <Project
+            title="Project 4"
             description="Traveler is an app that receives the destination of a user and then provides the weather update, travel news and side attractions of the location. Built with React, React-Redux, SCSS, and multiple APIs."
             link="https://fervent-montalcini-58eadd.netlify.app/"
           />
           <Project
-            title="Project 4"
+            title="Project 5"
             description=" Taskify, a mini task management App, created with React, TypeScript and CSS"
             link="https://astounding-gingersnap-066e9d.netlify.app/"
           />
           <Project
-            title="Project 5"
+            title="Project 6"
             description=" Advise Generator, an advise generating App. Techologies used are React, RTK QUery and TailwindCSS"
             link="https://advice-generator-zl7r.vercel.app/"
           />
           <Project
-            title="Project 6"
+            title="Project 7"
             description="A multi-section landing page with dynamically-created navigation and a scroll-into-view functionality. Powered by HTML, CSS and JavaScript"
             link="https://spiritman90.github.io/multi-section-landing-page/"
           />
           <Project
-            title="Project 7"
+            title="Project 8"
             description=" Shopping cart, a mini shopping cart, built with HTML, CSS and JAVASCRIPT"
             link="https://spiritman90.github.io/Shopping-Cart/"
           />
