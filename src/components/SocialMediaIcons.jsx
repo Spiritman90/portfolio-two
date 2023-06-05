@@ -31,7 +31,7 @@ const SocialMediaIcons = () => {
         className="py-1 px-4 bg-white font-bold font-opensans rounded text-deep-blue hover:bg-slate-900 hover:text-white hover:animate-bounce"
         target="_blank"
         rel="noreferrer"
-        href="https://drive.google.com/file/d/16UliJU84Mfd1X9wPizIvhXhwsuJxqwuv/view?usp=share_link"
+        href="https://drive.google.com/file/d/1Pa-IBSCiQm-zMMUvHshIeyXSy9zBdsuF/view?usp=drivesdk"
       >
         Resume
       </a>
