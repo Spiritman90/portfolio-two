@@ -124,6 +124,16 @@ const Projects = () => {
             description=" Shopping cart, a mini shopping cart, built with HTML, CSS and JAVASCRIPT"
             link="https://spiritman90.github.io/Shopping-Cart/"
           />
+          <Project
+            title="Project 9"
+            description="A Pizza Delivery App, built with React, Tailwind and Redux toolkit"
+            link="https://fast-pizza-ochre.vercel.app/"
+          />
+          <Project
+            title="Project 10"
+            description="A Travel list App. Powered by React and CSS"
+            link="https://travel-list-teal.vercel.app/"
+          />
 
           {/* ROW 3 */}
           <div
