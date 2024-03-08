@@ -61,7 +61,7 @@ const Landing = ({ setSelectedPage }) => {
             <Typewriter
               options={{
                 strings: [
-                  "I am a Frontend Developer based in Lagos,Nigeria.",
+                  "I am a Software Engineer based in Lagos,Nigeria.",
                   "I build realities using technology.",
                   "If you can imagine it, then it can be built.",
                 ],
