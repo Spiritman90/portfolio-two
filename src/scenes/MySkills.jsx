@@ -25,9 +25,9 @@ const MySkills = () => {
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7 font-bold text-lg font-playfair leading-8 tracking-normal">
             I’m familiar with technologies such as; Java, Spring Boot, Spring
-            MVC, Hibernate, Microservices, Restful APIs, MySql, Postgresql,
-            Oracle, Thymeleaf, Javascript, Typescript, React, Tailwindcss,
-            Node.js, Express.js Git, and Redux.
+            MVC, Hibernate, Microservices, Restful APIs, MySql,
+            Postgresql,Thymeleaf, Javascript, Typescript, React, Tailwindcss,
+            Git, and Redux.
           </p>
         </motion.div>
 
